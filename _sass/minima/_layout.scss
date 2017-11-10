@@ -7,7 +7,7 @@
   background-color: $alternative-color;
   background-image: url("/sound.jpg");
   background-size:contain;
-  background-position: center;
+  background-position: $text-align;
   background-repeat: no-repeat;
 
   // Positioning context for the mobile navigation icon
@@ -20,7 +20,7 @@
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
-  text-align: center;
+  text-align: $text-align;
 
   &,
   &:visited {
@@ -45,7 +45,7 @@
 }
 .social-media-list{
   ul{
-    text-align: center;
+    text-align: $text-align;
   }
   li{
     display: inline-block;
@@ -99,7 +99,7 @@
       height: 26px;
       line-height: 0;
       padding-top: 10px;
-      text-align: center;
+      text-align: $text-align;
 
       > svg path {
         fill: $grey-color-dark;
@@ -212,9 +212,12 @@
 }
 
 .page-heading {
-  @include relative-font-size(1.25);
+  @include relative-font-size(2.75);
+  text-align: $text-align;
 }
-
+.img-wrapper{
+  text-align: $text-align;
+}
 .post-list {
   margin-left: 0;
   list-style: none;
@@ -241,6 +244,7 @@
  */
 .post-header {
   margin-bottom: $spacing-unit;
+  text-align: $text-align;
 }
 
 .post-title {

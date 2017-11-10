@@ -26,11 +26,3 @@ In the future I hope to get a job in an other country, where Germany, Czech repu
 USA or Japan is high up on the list. I would firstly like to work in a startup to experience that before hopefully moving on 
 to a more established company. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
