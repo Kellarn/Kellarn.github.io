@@ -2,7 +2,8 @@
 layout: post
 title:  "Pre-compiling CSS"
 date:   2017-11-10 12:55 +01
-categories: CSs
+categories: CSS
+author: Sebastian Källstedt
 comments: true
 ---
 

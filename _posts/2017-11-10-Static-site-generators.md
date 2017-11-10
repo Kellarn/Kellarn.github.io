@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Pre-compiling CSS"
+title:  "Static site generators"
 date:   2017-11-10 12:55 +01
-categories: CSs
+categories: Static site generators
+author: Sebastian Källstedt
 comments: true
 ---
 

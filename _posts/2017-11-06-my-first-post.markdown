@@ -3,6 +3,7 @@ layout: post
 title:  "This is my first post"
 date:   2017-11-06 13:22 +01
 categories: first post
+author: Sebastian Källstedt
 comments: true
 ---
 Greetings! This is my first post that will go in my `_posts` directory. 
