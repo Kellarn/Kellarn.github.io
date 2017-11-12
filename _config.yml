@@ -19,7 +19,7 @@ email: sebastian@kallstedt.com
 description: >- # this means to ignore newlines until "baseurl:"
   This my awsome hangout page where you can find information about me and what I do.
   You can also read my blog here where I will post updates on my projects I am working.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kellarn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Kellarn
 github_username:  Kellarn
