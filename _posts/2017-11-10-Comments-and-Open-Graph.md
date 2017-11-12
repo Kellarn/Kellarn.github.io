@@ -26,6 +26,6 @@ I added this metadata to my head.html file since this file is included in every 
 <meta property="og:title" content="Seb's hangout!" />
 <meta property="og:type" content="About.blog" />
 <meta prpoerty="og:url" content="https://kellarn.github.io" />
-<meta property="og:image" content="/Seb.png" />
+<meta property="og:image" content="https://kellarn.github.io/Seb.png" />
 
 {% endhighlight %}

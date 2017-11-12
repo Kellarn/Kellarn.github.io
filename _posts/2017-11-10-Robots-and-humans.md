@@ -63,7 +63,7 @@ Name: Johan Leitet , Mats Loock
 /* SITE */
 
                             
-Last update: 2017/11/10
+Last update: 2017/11/12
 
                             
 Standards: HTML5, CSS3
