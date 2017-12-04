@@ -1,0 +1,45 @@
+
+                            
+/* TEAM */
+
+                            
+Developer: Sebastian Källstedt
+Designer: Sebastian Källstedt
+
+                            
+Contact: Sebastian@kallstedt.com
+
+Github: Kellarn
+                            
+Location: Kalmar, Sweden.
+
+                         
+                 
+                        [...]
+						
+
+							
+/* THANKS */
+
+							
+Name: Johan Leitet , Mats Loock
+
+						
+                 
+                        [...]
+                        
+
+                            
+/* SITE */
+
+                            
+Last update: 2017/11/12
+
+                            
+Standards: HTML5, CSS3
+
+                            
+Components: SASS, JEKYLL, DOCKER
+
+                            
+Software: Visual Studio Code, Adobe Illustrator
